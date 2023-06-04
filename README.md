@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-<video src="./assets/videos/XRecorder_04062023_182452.mp4" />
+[video](./assets/videos/XRecorder_04062023_182452.mp4)
