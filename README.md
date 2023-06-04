@@ -17,14 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-# 1
-
-[demo recording video](./assets/videos/XRecorder_04062023_182452.mp4)
-
-# 2
-
-![demo recording video](./assets/videos/XRecorder_04062023_182452.mp4)
-
-# 3
-
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+<video src="./assets/videos/XRecorder_04062023_182452.mp4" />
